@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchTwoArraySame", "Searc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchOnlyOneNumber", "SearchOnlyOneNumber\SearchOnlyOneNumber.csproj", "{48D5A1C1-7BE6-4134-B288-184AF7BF9CC3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sort", "Sort", "{248107A9-7327-4164-B246-91AC3259C3F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertSort", "InsertSort\InsertSort.csproj", "{18B04807-8B5B-4375-9C6A-25F176696222}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,10 @@ Global
 		{48D5A1C1-7BE6-4134-B288-184AF7BF9CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48D5A1C1-7BE6-4134-B288-184AF7BF9CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48D5A1C1-7BE6-4134-B288-184AF7BF9CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B04807-8B5B-4375-9C6A-25F176696222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B04807-8B5B-4375-9C6A-25F176696222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B04807-8B5B-4375-9C6A-25F176696222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B04807-8B5B-4375-9C6A-25F176696222}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{FBEB5AA5-F76D-4C35-AE88-56E51F47E719} = {8A22DE79-A2D7-4426-A7F8-7E4F35D90E73}
 		{48D5A1C1-7BE6-4134-B288-184AF7BF9CC3} = {8A22DE79-A2D7-4426-A7F8-7E4F35D90E73}
+		{18B04807-8B5B-4375-9C6A-25F176696222} = {248107A9-7327-4164-B246-91AC3259C3F0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E7A2E24F-B099-44DF-9147-980E192C11C6}
